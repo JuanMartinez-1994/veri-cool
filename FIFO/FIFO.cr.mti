@@ -1,8 +1,0 @@
-C:/Users/19ang/OneDrive/Desktop/School/Self-Taugh/FIFO/FIFO.v {1 {vlog -work work -stats=none C:/Users/19ang/OneDrive/Desktop/School/Self-Taugh/FIFO/FIFO.v
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module FIFO
-
-Top level modules:
-	FIFO
-
-} {} {}}
